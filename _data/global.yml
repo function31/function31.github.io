@@ -1,0 +1,9 @@
+# Site Settings
+title: 'Function31'
+description: 'A shared space for ideas, inspiration, and knowledge hosted by g31'
+url: 'http://function31.github.io' # the base hostname & protocol for your site
+footer_text: 'This text is footer text.'
+
+# Admin Settings
+admin_name: 'Function31 Blog Admin'
+admin_email: 'function31blog@gmail.com'

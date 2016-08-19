@@ -1,10 +1,11 @@
 ---
 layout: inner
 title: 'Test Picture Post'
-date: 2015-08-19 09:03
+date: 2016-08-18 09:03
 categories: blog development
-tags: cats dogs code
-featured_image: 'http://placekitten.com/1500/1000'
+tags: kitteh meowcode
+featured_image: '/images/kitteh.jpg'   #link to image (local or )
+# featured_image: 'http://placekitten.com/1500/1000'   #link to image (local or )
 lead_text: 'Test Test Test!'
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: inner
 title: 'First Test Post'
-date: 2016-08-19 09:00
+date: 2016-08-18 09:00
 categories: blog development
 tags: html css javascript
 lead_text: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita maiores quisquam id sunt, a architecto molestias velit, distinctio quidem non, nostrum provident quibusdam enim. Neque ipsam temporibus commodi facere minima.'

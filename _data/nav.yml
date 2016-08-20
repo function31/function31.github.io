@@ -1,5 +1,4 @@
 main:
-    - { url: '/', text: 'Blog' }
     - { url: '/about', text: 'About' }
     - { url: 'https://galvanize.com', text: 'Galvanize' }
     - { url: 'https://github.com/function31', text: 'GitHub' }

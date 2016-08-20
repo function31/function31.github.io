@@ -2,7 +2,7 @@
 layout: inner
 title: 'Test Video Post'
 date: 2016-08-19 09:10
-categories: blog development
+author: administrator
 tags: mars videos
 featured_video_id: -ed6UeDp1ek
 lead_text: 'bla bla bloh blah'

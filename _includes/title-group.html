@@ -23,9 +23,9 @@
     {% if page.id %}
     <aside>
         {{ page.date | date: "%m.%d.%y" }}
-        {% if page.categories != empty %}
+        {% if page.author != empty %}
             &middot;
-            {% for category in page.categories %}
+            {% for category in page.author %}
                 <span>{{ category }}</span>
             {% endfor %}
         {% endif %}

@@ -4,13 +4,24 @@
  <title>Function31</title>
  <link href="http://function31.github.io/atom.xml" rel="self"/>
  <link href="http://function31.github.io/"/>
- <updated>2016-08-20T15:45:54-06:00</updated>
+ <updated>2016-08-22T17:42:25-06:00</updated>
  <id>http://function31.github.io</id>
  <author>
    <name>Function31 Blog Admin</name>
    <email>function31blog@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Promises</title>
+   <link href="http://function31.github.io/oz's-post-image"/>
+   <updated>2016-08-21T18:38:00-06:00</updated>
+   <id>http://function31.github.io/oz's-post-image</id>
+   <content type="html">&lt;p&gt;js so crajie!!!&lt;/p&gt;
+
+&lt;p&gt;async stuff is mind bending.sd,f;ldkfg;lsfjghlbksdjfgl;kjsfgmc&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Post with Video</title>

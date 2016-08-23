@@ -5,8 +5,8 @@
     <description>A shared space for ideas, inspiration, and knowledge hosted by g31</description>
     <link>http://function31.github.io/</link>
     <atom:link href="http://function31.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Aug 2016 17:42:25 -0600</pubDate>
-    <lastBuildDate>Mon, 22 Aug 2016 17:42:25 -0600</lastBuildDate>
+    <pubDate>Mon, 22 Aug 2016 18:08:58 -0600</pubDate>
+    <lastBuildDate>Mon, 22 Aug 2016 18:08:58 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -58,27 +58,6 @@
         <guid isPermaLink="true">http://function31.github.io/test-image-post</guid>
         
         <category>meowcode</category>
-        
-        
-        <category>administrator</category>
-        
-      </item>
-    
-      <item>
-        <title>Post with Text Only</title>
-        <description>&lt;p&gt;I’m the first paragraph from the post, I appear on the preview card of the post on the index page as well as the actual post.&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 18 Aug 2016 09:00:00 -0600</pubDate>
-        <link>http://function31.github.io/test-text-post</link>
-        <guid isPermaLink="true">http://function31.github.io/test-text-post</guid>
-        
-        <category>html</category>
-        
-        <category>css</category>
-        
-        <category>javascript</category>
         
         
         <category>administrator</category>

@@ -4,24 +4,13 @@
  <title>Function31</title>
  <link href="http://function31.github.io/atom.xml" rel="self"/>
  <link href="http://function31.github.io/"/>
- <updated>2016-08-22T18:08:58-06:00</updated>
+ <updated>2016-08-22T18:23:28-06:00</updated>
  <id>http://function31.github.io</id>
  <author>
    <name>Function31 Blog Admin</name>
    <email>function31blog@gmail.com</email>
  </author>
 
- 
- <entry>
-   <title>Promises</title>
-   <link href="http://function31.github.io/oz's-post-image"/>
-   <updated>2016-08-21T18:38:00-06:00</updated>
-   <id>http://function31.github.io/oz's-post-image</id>
-   <content type="html">&lt;p&gt;js so crajie!!!&lt;/p&gt;
-
-&lt;p&gt;async stuff is mind bending.sd,f;ldkfg;lsfjghlbksdjfgl;kjsfgmc&lt;/p&gt;
-</content>
- </entry>
  
  <entry>
    <title>Post with Video</title>
@@ -42,6 +31,17 @@
    <content type="html">&lt;p&gt;First paragraph from posts checking in again.&lt;/p&gt;
 
 &lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Post with Text Only</title>
+   <link href="http://function31.github.io/test-text-post"/>
+   <updated>2016-08-18T09:00:00-06:00</updated>
+   <id>http://function31.github.io/test-text-post</id>
+   <content type="html">&lt;p&gt;I’m the first paragraph from the post, I appear on the preview card of the post on the index page as well as the actual post.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </content>
  </entry>
  

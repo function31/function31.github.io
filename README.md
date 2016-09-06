@@ -1,9 +1,4 @@
 # Function31.github.io
-
-Documentation on how to contribute posts to this blog will be ready shortly!
-
-# function31.github.io
-
 ## Getting Started
 * fork this repo & clone down the forked repo from your GH
 

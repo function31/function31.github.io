@@ -27,9 +27,9 @@ Then from terminal
 * Then write away, Hemingway!
 
 ### Additional notes
-Adding an image:
-Adding a video:
-Adding links:
+- Adding an image: see `featured_image:` of the text with image post template (line 9).
+- Adding a video: see `featured_video_id: ` of the text with video post template (line 9)
+- Adding links: format links like so `[text to display](url)` and place within your post.
 
 
 ## After you've finished writing
@@ -47,9 +47,9 @@ Note: running `jekyll serve` generates the `_site` folder created. Don't modify 
 * If not, repeat the above directions again.
 
 ## GIT Workflow
-* git add <your post file>.md, **DO NOT `git add .`**
-* gc "<post title - any comments>"
-* gpom
+* `git add <your post file>.md`, **DO NOT `git add .`**
+* `git commit "<post title - any comments>"`
+* `git push origin master`
 * create a pull request to function31.github.io
 
 * function31 administrators will merge your pull requests within a day or two

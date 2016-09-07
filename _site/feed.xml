@@ -5,9 +5,121 @@
     <description>A shared space for ideas, inspiration, and knowledge hosted by g31</description>
     <link>http://function31.github.io/</link>
     <atom:link href="http://function31.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 24 Aug 2016 00:58:23 -0600</pubDate>
-    <lastBuildDate>Wed, 24 Aug 2016 00:58:23 -0600</lastBuildDate>
+    <pubDate>Wed, 07 Sep 2016 13:23:31 -0600</pubDate>
+    <lastBuildDate>Wed, 07 Sep 2016 13:23:31 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Basic Express Server</title>
+        <description>&lt;h1 id=&quot;today-im-going-to-show-you-how-to-make-a-basic-express-server-application&quot;&gt;Today I’m going to show you how to make a basic express server application.&lt;/h1&gt;
+
+&lt;h3 id=&quot;for-this-to-work-both-node-and-npm-must-be-installed-on-your-machine&quot;&gt;For this to work, both node and npm must be installed on your machine.&lt;/h3&gt;
+
+&lt;h4 id=&quot;now-lets-begin&quot;&gt;Now, lets begin.&lt;/h4&gt;
+
+&lt;p&gt;1) Open your terminal. Now create a new project folder and cd into it.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+  / &amp;gt; mkdir folder-name &amp;amp;&amp;amp; cd folder-name
+ &lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;2) Create a package.json file with the defalt settings using npm.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+  /folder-name &amp;gt; npm init
+ &lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;3) Install express along with all other node modules.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+  /folder-name &amp;gt; npm install express -S
+ &lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;4) Create an index.js file in your project folder. Notice that this corresponds to the “main” value in your package.json file.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+  /folder-name &amp;gt; touch index.js
+ &lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;5) Open your app.js file in a text editor. On the first line of the file, you’re going to need to bring in the express module.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+  const express = require('express');
+ &lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;6) Create the app itself.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+  const app = express();
+ &lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;7) Next, specify the port you would like your app to run on.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+  const port = 3000;
+ &lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;8) Now, you are going to set up your app to handle a basic GET request to your app.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+  app.get(&quot;/&quot;, function(request, response, next) {
+    response.send(&quot;This is an app running on an express server.&quot;);
+  });
+ &lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;9) Tell your app to listen on the port you specified.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+  app.listen(port);
+ &lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;10) Finally, go back to your terminal and start up your app!&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+  /folder-name &amp;gt; nodemon
+ &lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;11) Test that your app is running. Open a browser and go to (make a GET request to) http://localhost:3000. In your browser window you should see the response: &lt;code class=&quot;highlighter-rouge&quot;&gt;This is an app running on an express server.&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;congrats-you-have-now-setup-a-basic-express-server-application&quot;&gt;Congrats you have now setup a basic express server application.&lt;/h3&gt;
+
+&lt;h2 id=&quot;here-are-all-of-the-commands-in-order&quot;&gt;Here are ALL of the commands in order.&lt;/h2&gt;
+
+&lt;h4 id=&quot;in-your-terminal&quot;&gt;In your terminal:&lt;/h4&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;/ &amp;gt; mkdir folder-name &amp;amp;&amp;amp; cd folder-name
+/folder-name &amp;gt; npm init
+/folder-name &amp;gt; npm install express -S
+/folder-name &amp;gt; touch index.js
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h4 id=&quot;in-your-indexjs&quot;&gt;In your index.js:&lt;/h4&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;const express = require('express');
+const app = express();
+const port = 3000;
+app.get(&quot;/&quot;, function(request, response, next) {
+  response.send(&quot;This is an app running on an express server.&quot;); });
+app.listen(port);
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h4 id=&quot;back-in-your-terminal&quot;&gt;Back in your terminal:&lt;/h4&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;/folder-name &amp;gt; nodemon
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 07 Sep 2016 12:37:00 -0600</pubDate>
+        <link>http://function31.github.io/basic-express-server</link>
+        <guid isPermaLink="true">http://function31.github.io/basic-express-server</guid>
+        
+        <category>js</category>
+        
+        <category>node</category>
+        
+        <category>express</category>
+        
+        
+        <category>Sam Persian</category>
+        
+      </item>
     
       <item>
         <title>Post with Video</title>

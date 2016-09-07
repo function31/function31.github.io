@@ -3,9 +3,9 @@ layout: inner
 comments: true
 
 title: 'DENVER STARTUP WEEK PT. (1/3)'
-date: 2016-08-18 09:03
+date: 2016-09-07 5:04pm
 author: Benjamin Giordano
-tags: meowcode
+tags: Denver_Startup_Week Galvanize Dev_Student Code_School
 featured_image: '/images/talk.jpg'   # link to image (local or online)
 featured_video_id:
 lead_text: 'Why I’m Excited for Denver Startup Week and Why You Should Be Too.'

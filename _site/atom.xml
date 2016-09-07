@@ -4,7 +4,7 @@
  <title>Function31</title>
  <link href="http://function31.github.io/atom.xml" rel="self"/>
  <link href="http://function31.github.io/"/>
- <updated>2016-08-20T15:45:54-06:00</updated>
+ <updated>2016-09-07T15:58:24-06:00</updated>
  <id>http://function31.github.io</id>
  <author>
    <name>Function31 Blog Admin</name>
@@ -20,6 +20,71 @@
    <content type="html">&lt;p&gt;Guess who? First paragraph again!&lt;/p&gt;
 
 &lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>DENVER STARTUP WEEK PT. (1/3)</title>
+   <link href="http://function31.github.io/Denver-Startup-Week-Pt-1-of-3"/>
+   <updated>2016-08-18T09:03:00-06:00</updated>
+   <id>http://function31.github.io/Denver-Startup-Week-Pt-1-of-3</id>
+   <content type="html">&lt;p&gt;With less than a week to go until Denver Startup Week, I’m eagerly anticipating what is sure to be five days packed with excitement, new knowledge, and opportunities to connect with some of the most vibrant minds and personalities in technology.&lt;/p&gt;
+
+&lt;p&gt;Thousands of attendees with descend upon the Mile High City to discuss budding ideas, stories of personal success and failure, freely sharing kernels of wisdom intended to inspire and spark a disruptive wave of innovation.&lt;/p&gt;
+
+&lt;p&gt;To understand why I am excited for Denver Startup Week, I have to go back to my time at Vail Ski ResortMarch (year?). It was a pristine blueday on the mountain after two days of a heavy snowfall. This is the kind of powder day you dream of all year long. I had one of the best days riding I could possibly ask for cruising at top speed through billowy clouds of untracked snow and jumping off cliffs into soft cushions forgiving enough even for my awkward, less than graceful form.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, around three o’clock that day, this less than graceful form embarrassingly ended his season on a green run (thats the easiest) falling, or “eating it” as they would say on the mountain, tearing my right ACL.&lt;/p&gt;
+
+&lt;p&gt;While this wasby no means an extremely long-term debilitating injury, it was serious enough to put to rest my plans of hiking across the Pacific Northwest for the summer.&lt;/p&gt;
+
+&lt;p&gt;About a week later, still feeling bummed out about my injury but wanting to find a constructive new challenge, I found myself talking to my dear friend Joe Burchard.Joe is one of the founders of Lawbooth, a legal tech startup out of Boulder, CO and will be present next Monday at Denver Startup Week (something I will be discussing in greater detail in part III of this blog post in two days).&lt;/p&gt;
+
+&lt;p&gt;Joe loves what he does. He has one of those charismatic personalities that capture your attention whenever he talks about his passions, especially technology. Knowing that I had expressed interest in learning programming, Joe encouraged me to explore online resources like Codecademyand maybe even classes at Galvanize since he witnessed firsthand the success of its graduates while working in the Boulder office.&lt;/p&gt;
+
+&lt;p&gt;This began my first steps on my road to code school. For me, it was just a few days after attending Boulder Startup Week that I decided I was going all in and wanted to go get accepted to Galvanize. It was there that I spoke to business leaders, entrepreneurs, developers, and both code school graduates, as well as, then current Galvanize students. Hearing their stories gave me the final push I needed to making the biggest decisions of my life.  At that time, I had no real understanding of what I was in for or the pace at which we were going to learn.&lt;/p&gt;
+
+&lt;p&gt;During my first week at Galvanize my classmates and I shared the many and diverse motivations which led each of us to taking that final step to applying to the full stack web development immersive program. Committing to six months of school full time, with little to no income is no small decision. Additionally, having zero prior coding knowledge the learning initial learning curve was intimidating. As a matter of fact… it remains to be intimidating!  While trudging my way forward, I was motivated by a pure stubbornness to try and learn at least one new thing every time I sat down at my computer despite it often being a very painful process.&lt;/p&gt;
+
+&lt;p&gt;Five months after Boulder Startup Week and only 10 months into the program, here is a list of what we have begun learning in Cohort 31&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Git/Github&lt;/li&gt;
+  &lt;li&gt;Using the Terminal&lt;/li&gt;
+  &lt;li&gt;HTML&lt;/li&gt;
+  &lt;li&gt;CSS&lt;/li&gt;
+  &lt;li&gt;Javascript&lt;/li&gt;
+  &lt;li&gt;jQuery&lt;/li&gt;
+  &lt;li&gt;ES5&lt;/li&gt;
+  &lt;li&gt;Using existing API’s&lt;/li&gt;
+  &lt;li&gt;Creating our own API’s&lt;/li&gt;
+  &lt;li&gt;Using Chrome Developer Tools&lt;/li&gt;
+  &lt;li&gt;Building our first Apps&lt;/li&gt;
+  &lt;li&gt;Launching sites to Firebase&lt;/li&gt;
+  &lt;li&gt;Launching to Heroku&lt;/li&gt;
+  &lt;li&gt;Writing Semantic Code&lt;/li&gt;
+  &lt;li&gt;Learning how to navigate dense software documentation.&lt;/li&gt;
+  &lt;li&gt;Asynchronous Programming / Promises&lt;/li&gt;
+  &lt;li&gt;Creating User Stories&lt;/li&gt;
+  &lt;li&gt;Creating Wireframes and Mock-ups&lt;/li&gt;
+  &lt;li&gt;The Agile Methodology&lt;/li&gt;
+  &lt;li&gt;Attending industry meet-ups and conferences&lt;/li&gt;
+  &lt;li&gt;Node&lt;/li&gt;
+  &lt;li&gt;Databases&lt;/li&gt;
+  &lt;li&gt;Entity Relationship Diagrams&lt;/li&gt;
+  &lt;li&gt;SQL&lt;/li&gt;
+  &lt;li&gt;PostgreSQL&lt;/li&gt;
+  &lt;li&gt;Knex.js&lt;/li&gt;
+  &lt;li&gt;Test Driven Development&lt;/li&gt;
+  &lt;li&gt;Behavior Driven Development&lt;/li&gt;
+  &lt;li&gt;And, most importantly, how to learn new languages, libraries, and technologies to independently explore our own particular interests enabling us to shape ourselves as unique and capable developers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I understand, at this time, I have only began to scratch the surface on these various languages, technologies, and frameworks. That being said, considering five months ago at Boulder Startup Week I couldn’t tell you what the hell IOT was, clearly articulate the difference between Front-End or Back-End, or probably write much more than “Hello World” in Javascript, I’m feeling pretty accomplished and ready to go talk the talk at Denver Startup Week and take the pulse of expect come December when we graduate and enter the job market.&lt;/p&gt;
+
+&lt;p&gt;Tomorrow I will be posting my second of three entries on Denver Startup Week.&lt;/p&gt;
+
+&lt;h4 id=&quot;denver-startup-week-part-23-the-fomo-is-real&quot;&gt;DENVER STARTUP WEEK PART 2/3: The FOMO is Real.&lt;/h4&gt;
 </content>
  </entry>
  

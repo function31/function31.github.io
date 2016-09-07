@@ -6,7 +6,7 @@ title: "Post with Image"  # Rename this with the title of your post & surround w
 date: 2016-MM-DD 15:00 # Date and military time
 author: First Last # Your name here ie Ji Kim
 tags: html js css # tags are separated by whitespace, so use single words.
-featured_image: '/images/kitteh.jpg'   # link to image (local or online), in single quotes
+featured_image: '/images/kitteh.jpg'   # link to image (local or online) in single quotes. If you want to add it locally.... place in images folder.
 lead_text: "I'm a tag line" # Surround with double quotes. Tag lines will appear above the content of the post within each post.
 ---
 The first paragraph the post will appear on the preview card of the post on the index page as well as the actual post. So keep it short

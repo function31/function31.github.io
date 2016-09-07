@@ -9,7 +9,7 @@
     <!-- Meta -->
     <meta charset="utf-8">
     <title>Function31  ★  g31</title>
-    <!-- <title>Post with Image ★  Function31</title> -->
+    <!-- <title>Basic Express Server ★  Function31</title> -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
     <meta content="yes" name="apple-mobile-web-app-capable">
@@ -84,37 +84,29 @@
 
 
     
-    <div class="topper">
-        
-        <span class="img" style="background-image: url('/images/kitteh.jpg');">
-        
-
-        
-    </div>
-
 
 <div class="title-group">
     <h1 class="special">
         <span>
         
-            Post with Image
+            Basic Express Server
         
         </span>
     </h1>
     
     <aside>
-        08.18.16
+        09.07.16
         
             &middot;
             
-                <span>administrator</span>
+                <span>Sam Persian</span>
             
         
     </aside>
     
     <p class="lead">
         
-            Test Test Test!
+            Create a basic express server.
         
     </p>
 </div>
@@ -125,7 +117,100 @@
                 <div class="col-md-10 col-md-offset-1">
 
 
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+                    <h1 id="today-im-going-to-show-you-how-to-make-a-basic-express-server-application">Today I’m going to show you how to make a basic express server application.</h1>
+
+<h3 id="for-this-to-work-both-node-and-npm-must-be-installed-on-your-machine">For this to work, both node and npm must be installed on your machine.</h3>
+
+<h4 id="now-lets-begin">Now, lets begin.</h4>
+
+<p>1) Open your terminal. Now create a new project folder and cd into it.</p>
+
+<p><code class="highlighter-rouge">
+  / &gt; mkdir folder-name &amp;&amp; cd folder-name
+ </code></p>
+
+<p>2) Create a package.json file with the defalt settings using npm.</p>
+
+<p><code class="highlighter-rouge">
+  /folder-name &gt; npm init
+ </code></p>
+
+<p>3) Install express along with all other node modules.</p>
+
+<p><code class="highlighter-rouge">
+  /folder-name &gt; npm install express -S
+ </code></p>
+
+<p>4) Create an index.js file in your project folder. Notice that this corresponds to the “main” value in your package.json file.</p>
+
+<p><code class="highlighter-rouge">
+  /folder-name &gt; touch index.js
+ </code></p>
+
+<p>5) Open your app.js file in a text editor. On the first line of the file, you’re going to need to bring in the express module.</p>
+
+<p><code class="highlighter-rouge">
+  const express = require('express');
+ </code></p>
+
+<p>6) Create the app itself.</p>
+
+<p><code class="highlighter-rouge">
+  const app = express();
+ </code></p>
+
+<p>7) Next, specify the port you would like your app to run on.</p>
+
+<p><code class="highlighter-rouge">
+  const port = 3000;
+ </code></p>
+
+<p>8) Now, you are going to set up your app to handle a basic GET request to your app.</p>
+
+<p><code class="highlighter-rouge">
+  app.get("/", function(request, response, next) {
+    response.send("This is an app running on an express server.");
+  });
+ </code></p>
+
+<p>9) Tell your app to listen on the port you specified.</p>
+
+<p><code class="highlighter-rouge">
+  app.listen(port);
+ </code></p>
+
+<p>10) Finally, go back to your terminal and start up your app!</p>
+
+<p><code class="highlighter-rouge">
+  /folder-name &gt; nodemon
+ </code></p>
+
+<p>11) Test that your app is running. Open a browser and go to (make a GET request to) http://localhost:3000. In your browser window you should see the response: <code class="highlighter-rouge">This is an app running on an express server.</code></p>
+
+<h3 id="congrats-you-have-now-setup-a-basic-express-server-application">Congrats you have now setup a basic express server application.</h3>
+
+<h2 id="here-are-all-of-the-commands-in-order">Here are ALL of the commands in order.</h2>
+
+<h4 id="in-your-terminal">In your terminal:</h4>
+<div class="highlighter-rouge"><pre class="highlight"><code>/ &gt; mkdir folder-name &amp;&amp; cd folder-name
+/folder-name &gt; npm init
+/folder-name &gt; npm install express -S
+/folder-name &gt; touch index.js
+</code></pre>
+</div>
+<h4 id="in-your-indexjs">In your index.js:</h4>
+<div class="highlighter-rouge"><pre class="highlight"><code>const express = require('express');
+const app = express();
+const port = 3000;
+app.get("/", function(request, response, next) {
+  response.send("This is an app running on an express server."); });
+app.listen(port);
+</code></pre>
+</div>
+<h4 id="back-in-your-terminal">Back in your terminal:</h4>
+<div class="highlighter-rouge"><pre class="highlight"><code>/folder-name &gt; nodemon
+</code></pre>
+</div>
 
                 </div>
             </div>

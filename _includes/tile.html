@@ -21,7 +21,7 @@
                 {% endfor %}
             {% endif %}
         </aside>
-        <div class="excerpt">{{ post.excerpt }}</div>
+        <div class="excerpt">{{ post.lead_text }}</div>
         <a href="{{ post.url | prepend: site.baseurl }}" class="read-more btn btn-info btn-lg">Read More <i class="fa fa-angle-right"></i></a>
         {% if post.author != empty %}
         <div class="tags">

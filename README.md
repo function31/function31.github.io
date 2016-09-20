@@ -24,7 +24,7 @@ Then from terminal
 
 ### Additional notes
 - Adding an image: see `featured_image:` of the text with image post template (line 9).
-  
+
 - Adding a video: see `featured_video_id: ` of the text with video post template (line 9)
 - Adding links: format links like so `[text to display](url)` and place within your post.
 
@@ -44,7 +44,7 @@ Note: running `jekyll serve` generates the `_site` folder created. Don't modify 
 * If not, repeat the above directions again.
 
 ## GIT Workflow
-* `git add <the post you made>`
+* `git add <the post you made>` *do not git add all*
 * `git commit "<post title - any comments>"`
 * `git push origin master`
 * create a pull request to function31.github.io

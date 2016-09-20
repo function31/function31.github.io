@@ -10,6 +10,7 @@ Then from terminal
     2. install ruby `brew install ruby` (??)
 
 * install ruby `gem install jekyll`
+  **NOTE: If you run into permission errors,**
 * install jekyll-paginate `gem install jekyll-paginate`
 * install bundler `gem install bundler`  (??)
 
@@ -23,6 +24,7 @@ Then from terminal
 
 ### Additional notes
 - Adding an image: see `featured_image:` of the text with image post template (line 9).
+  
 - Adding a video: see `featured_video_id: ` of the text with video post template (line 9)
 - Adding links: format links like so `[text to display](url)` and place within your post.
 

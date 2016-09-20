@@ -44,7 +44,7 @@ Note: running `jekyll serve` generates the `_site` folder created. Don't modify 
 * If not, repeat the above directions again.
 
 ## GIT Workflow
-* `git add .`
+* `git add <the post you made>`
 * `git commit "<post title - any comments>"`
 * `git push origin master`
 * create a pull request to function31.github.io

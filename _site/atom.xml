@@ -4,13 +4,180 @@
  <title>Function31</title>
  <link href="http://function31.github.io/atom.xml" rel="self"/>
  <link href="http://function31.github.io/"/>
- <updated>2016-08-24T00:58:23-06:00</updated>
+ <updated>2016-09-07T17:12:40-06:00</updated>
  <id>http://function31.github.io</id>
  <author>
    <name>Function31 Blog Admin</name>
    <email>function31blog@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>DENVER STARTUP WEEK PT. (1/3)</title>
+   <link href="http://function31.github.io/Denver-Startup-Week-Pt-1-of-3"/>
+   <updated>2016-09-07T17:04:00-06:00</updated>
+   <id>http://function31.github.io/Denver-Startup-Week-Pt-1-of-3</id>
+   <content type="html">&lt;p&gt;With less than a week to go until Denver Startup Week, I’m eagerly anticipating what is sure to be five days packed with excitement, new knowledge, and opportunities to connect with some of the most vibrant minds and personalities in technology.&lt;/p&gt;
+
+&lt;p&gt;Thousands of attendees with descend upon the Mile High City to discuss budding ideas, stories of personal success and failure, freely sharing kernels of wisdom intended to inspire and spark a disruptive wave of innovation.&lt;/p&gt;
+
+&lt;p&gt;To understand why I am excited for Denver Startup Week, I have to go back to my time at Vail Ski ResortMarch (year?). It was a pristine blueday on the mountain after two days of a heavy snowfall. This is the kind of powder day you dream of all year long. I had one of the best days riding I could possibly ask for cruising at top speed through billowy clouds of untracked snow and jumping off cliffs into soft cushions forgiving enough even for my awkward, less than graceful form.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, around three o’clock that day, this less than graceful form embarrassingly ended his season on a green run (thats the easiest) falling, or “eating it” as they would say on the mountain, tearing my right ACL.&lt;/p&gt;
+
+&lt;p&gt;While this wasby no means an extremely long-term debilitating injury, it was serious enough to put to rest my plans of hiking across the Pacific Northwest for the summer.&lt;/p&gt;
+
+&lt;p&gt;About a week later, still feeling bummed out about my injury but wanting to find a constructive new challenge, I found myself talking to my dear friend Joe Burchard.Joe is one of the founders of Lawbooth, a legal tech startup out of Boulder, CO and will be present next Monday at Denver Startup Week (something I will be discussing in greater detail in part III of this blog post in two days).&lt;/p&gt;
+
+&lt;p&gt;Joe loves what he does. He has one of those charismatic personalities that capture your attention whenever he talks about his passions, especially technology. Knowing that I had expressed interest in learning programming, Joe encouraged me to explore online resources like Codecademyand maybe even classes at Galvanize since he witnessed firsthand the success of its graduates while working in the Boulder office.&lt;/p&gt;
+
+&lt;p&gt;This began my first steps on my road to code school. For me, it was just a few days after attending Boulder Startup Week that I decided I was going all in and wanted to go get accepted to Galvanize. It was there that I spoke to business leaders, entrepreneurs, developers, and both code school graduates, as well as, then current Galvanize students. Hearing their stories gave me the final push I needed to making the biggest decisions of my life.  At that time, I had no real understanding of what I was in for or the pace at which we were going to learn.&lt;/p&gt;
+
+&lt;p&gt;During my first week at Galvanize my classmates and I shared the many and diverse motivations which led each of us to taking that final step to applying to the full stack web development immersive program. Committing to six months of school full time, with little to no income is no small decision. Additionally, having zero prior coding knowledge the learning initial learning curve was intimidating. As a matter of fact… it remains to be intimidating!  While trudging my way forward, I was motivated by a pure stubbornness to try and learn at least one new thing every time I sat down at my computer despite it often being a very painful process.&lt;/p&gt;
+
+&lt;p&gt;Five months after Boulder Startup Week and only 10 months into the program, here is a list of what we have begun learning in Cohort 31&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Git/Github&lt;/li&gt;
+  &lt;li&gt;Using the Terminal&lt;/li&gt;
+  &lt;li&gt;HTML&lt;/li&gt;
+  &lt;li&gt;CSS&lt;/li&gt;
+  &lt;li&gt;Javascript&lt;/li&gt;
+  &lt;li&gt;jQuery&lt;/li&gt;
+  &lt;li&gt;ES5&lt;/li&gt;
+  &lt;li&gt;Using existing API’s&lt;/li&gt;
+  &lt;li&gt;Creating our own API’s&lt;/li&gt;
+  &lt;li&gt;Using Chrome Developer Tools&lt;/li&gt;
+  &lt;li&gt;Building our first Apps&lt;/li&gt;
+  &lt;li&gt;Launching sites to Firebase&lt;/li&gt;
+  &lt;li&gt;Launching to Heroku&lt;/li&gt;
+  &lt;li&gt;Writing Semantic Code&lt;/li&gt;
+  &lt;li&gt;Learning how to navigate dense software documentation.&lt;/li&gt;
+  &lt;li&gt;Asynchronous Programming / Promises&lt;/li&gt;
+  &lt;li&gt;Creating User Stories&lt;/li&gt;
+  &lt;li&gt;Creating Wireframes and Mock-ups&lt;/li&gt;
+  &lt;li&gt;The Agile Methodology&lt;/li&gt;
+  &lt;li&gt;Attending industry meet-ups and conferences&lt;/li&gt;
+  &lt;li&gt;Node&lt;/li&gt;
+  &lt;li&gt;Databases&lt;/li&gt;
+  &lt;li&gt;Entity Relationship Diagrams&lt;/li&gt;
+  &lt;li&gt;SQL&lt;/li&gt;
+  &lt;li&gt;PostgreSQL&lt;/li&gt;
+  &lt;li&gt;Knex.js&lt;/li&gt;
+  &lt;li&gt;Test Driven Development&lt;/li&gt;
+  &lt;li&gt;Behavior Driven Development&lt;/li&gt;
+  &lt;li&gt;And, most importantly, how to learn new languages, libraries, and technologies to independently explore our own particular interests enabling us to shape ourselves as unique and capable developers.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I understand, at this time, I have only began to scratch the surface on these various languages, technologies, and frameworks. That being said, considering five months ago at Boulder Startup Week I couldn’t tell you what the hell IOT was, clearly articulate the difference between Front-End or Back-End, or probably write much more than “Hello World” in Javascript, I’m feeling pretty accomplished and ready to go talk the talk at Denver Startup Week and take the pulse of expect come December when we graduate and enter the job market.&lt;/p&gt;
+
+&lt;p&gt;Tomorrow I will be posting my second of three entries on Denver Startup Week.&lt;/p&gt;
+
+&lt;h4 id=&quot;denver-startup-week-part-23-the-fomo-is-real&quot;&gt;DENVER STARTUP WEEK PART 2/3: The FOMO is Real.&lt;/h4&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Basic Express Server</title>
+   <link href="http://function31.github.io/basic-express-server"/>
+   <updated>2016-09-07T12:37:00-06:00</updated>
+   <id>http://function31.github.io/basic-express-server</id>
+   <content type="html">&lt;h1 id=&quot;today-im-going-to-show-you-how-to-make-a-basic-express-server-application&quot;&gt;Today I’m going to show you how to make a basic express server application.&lt;/h1&gt;
+
+&lt;h3 id=&quot;for-this-to-work-both-node-and-npm-must-be-installed-on-your-machine&quot;&gt;For this to work, both node and npm must be installed on your machine.&lt;/h3&gt;
+
+&lt;h4 id=&quot;now-lets-begin&quot;&gt;Now, lets begin.&lt;/h4&gt;
+
+&lt;p&gt;1) Open your terminal. Now create a new project folder and cd into it.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+  / &amp;gt; mkdir folder-name &amp;amp;&amp;amp; cd folder-name
+ &lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;2) Create a package.json file with the defalt settings using npm.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+  /folder-name &amp;gt; npm init
+ &lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;3) Install express along with all other node modules.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+  /folder-name &amp;gt; npm install express -S
+ &lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;4) Create an index.js file in your project folder. Notice that this corresponds to the “main” value in your package.json file.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+  /folder-name &amp;gt; touch index.js
+ &lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;5) Open your app.js file in a text editor. On the first line of the file, you’re going to need to bring in the express module.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+  const express = require('express');
+ &lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;6) Create the app itself.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+  const app = express();
+ &lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;7) Next, specify the port you would like your app to run on.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+  const port = 3000;
+ &lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;8) Now, you are going to set up your app to handle a basic GET request to your app.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+  app.get(&quot;/&quot;, function(request, response, next) {
+    response.send(&quot;This is an app running on an express server.&quot;);
+  });
+ &lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;9) Tell your app to listen on the port you specified.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+  app.listen(port);
+ &lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;10) Finally, go back to your terminal and start up your app!&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;
+  /folder-name &amp;gt; nodemon
+ &lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;11) Test that your app is running. Open a browser and go to (make a GET request to) http://localhost:3000. In your browser window you should see the response: &lt;code class=&quot;highlighter-rouge&quot;&gt;This is an app running on an express server.&lt;/code&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;congrats-you-have-now-setup-a-basic-express-server-application&quot;&gt;Congrats you have now setup a basic express server application.&lt;/h3&gt;
+
+&lt;h2 id=&quot;here-are-all-of-the-commands-in-order&quot;&gt;Here are ALL of the commands in order.&lt;/h2&gt;
+
+&lt;h4 id=&quot;in-your-terminal&quot;&gt;In your terminal:&lt;/h4&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;/ &amp;gt; mkdir folder-name &amp;amp;&amp;amp; cd folder-name
+/folder-name &amp;gt; npm init
+/folder-name &amp;gt; npm install express -S
+/folder-name &amp;gt; touch index.js
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h4 id=&quot;in-your-indexjs&quot;&gt;In your index.js:&lt;/h4&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;const express = require('express');
+const app = express();
+const port = 3000;
+app.get(&quot;/&quot;, function(request, response, next) {
+  response.send(&quot;This is an app running on an express server.&quot;); });
+app.listen(port);
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h4 id=&quot;back-in-your-terminal&quot;&gt;Back in your terminal:&lt;/h4&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;/folder-name &amp;gt; nodemon
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Post with Video</title>
